@@ -1,0 +1,8 @@
+{
+	"type": "module",
+	"dependencies": {
+		"chatgpt": "^3.5.1",
+		"csv-string": "^4.1.1",
+		"puppeteer": "^19.6.2"
+	}
+}
