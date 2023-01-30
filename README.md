@@ -11,4 +11,4 @@ Below is an explination of the main files. Note that mose code is written in pyt
 4) `classify_articles.py` will query `text-davinci-003` for classifying articles and save results to `data/results.csv`. To query ChatGPT instead, use node to run `get_chat_gpt_response.js`, this is not 100% complete as it will nto save to csv, instead print responses to console. This will be updated once an official API is released for ChatGPT.
 
 
-[White Paper - Is the CBC a neutral voice in Canadian politics? - Alex Vukadinovic.pdf](https://github.com/avukadin/biasAnalysisWithChatGPT/files/10538751/White.Papre-.Is.the.CBC.a.neutral.voice.in.Canadian.politics.-.Alex.Vukadinovic.pdf)
+[White Paper- Is the CBC a neutral voice in Canadian politics? - Alex Vukadinovic.pdf](https://github.com/avukadin/biasAnalysisWithChatGPT/files/10539131/White.Paper-.Is.the.CBC.a.neutral.voice.in.Canadian.politics.-.Alex.Vukadinovic.pdf)
